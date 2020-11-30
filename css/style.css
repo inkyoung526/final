@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap');
+
+.backbox {
+	width: 100%;
+	height: 100%;
+	background-color: #1b1d27;
+	position: absolute;
+}
+
+.textbox1 {
+	width: 100%;
+	height: 80px;
+	position: absolute;
+	top: 35%;
+}
+
+h1 {
+	font-family: 'Abril Fatface', cursive;
+	text-align: center;
+	font-size: 800%;
+	color: #ff7b7b;
+}
+
+.textbox3 {
+	width: 100%;
+	height: 80px;
+	position: absolute;
+	top: 190%;
+}
+
+h2 {
+	font-family: 'Source Serif Pro', serif;
+	color: #f2cc07;
+	text-align: center;
+	font-size: 250%;
+}
+
+.textbox2 {
+	width: 100%;
+	height: 80px;
+	position: absolute;
+	top: 5%;
+}
+
+p {
+	color: #f2cc07;
+	font-family: 'Source Serif Pro', serif;
+	text-align: center;
+	font-size: 140%;
+
+}
+
+.yellowborder {
+	width: 89%;
+	height: 88%;
+	background-color: #1b1d27;
+	position: absolute;
+	left: 50%;
+	top: 6%;
+	margin-left: -44.5%;
+	border: 2px solid #f2cc07;
+}
+
+.yellowborder2 {
+	width: 90%;
+	height: 90%;
+	background-color: #1b1d27;
+	position: absolute;
+	left: 50%;
+	top: 5.5%;
+	margin-left: -45%;
+	border: 2px solid #f2cc07;
+}
+
+.one {
+	width: 46%;
+	height: 100%;
+	background-color: #1b1d27;
+	position: absolute;
+	border: 2px solid #f2cc07;
+	border-radius: 47%;
+	left: 50%;
+	margin-left: -23%;
+}
